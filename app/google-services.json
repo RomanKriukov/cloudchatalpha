@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503331459044",
+    "firebase_url": "https://cloudchat-c2f24.firebaseio.com",
+    "project_id": "cloudchat-c2f24",
+    "storage_bucket": "cloudchat-c2f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503331459044:android:af85241331f7f0bc0c41f1",
+        "android_client_info": {
+          "package_name": "com.example.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503331459044-ettm34cc82bk7n1lpsu7400e6c1kc3t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWW6LI5zyRCGM1lpUT0WwgMChypbjD5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503331459044-ettm34cc82bk7n1lpsu7400e6c1kc3t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
